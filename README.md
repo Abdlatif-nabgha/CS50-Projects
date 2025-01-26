@@ -17,3 +17,6 @@ This repository contains all the projects, problem sets, and solutions I complet
 - **Labs**: Smaller tasks and exercises to build up programming skills.
 - **Final Project**: My capstone project combining all the skills I learned during the course.
 
+## Why CS50?
+  
+CS50, offered by Harvard University, is one of the best courses for learning computer science fundamentals.
